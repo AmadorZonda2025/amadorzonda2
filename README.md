@@ -239,11 +239,8 @@
 
 ---
 
-## 🔁 Contribution Metrics
 
-![Metrics](https://github.com/AmadorZonda2025/AmadorZonda2025/blob/main/github-metrics.svg)
 
----
 
 ## 🔗 Connect With Me
 
