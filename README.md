@@ -235,9 +235,18 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AmadorZonda2025&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AmadorZonda2025&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmadorZonda2025&layout=compact&theme=radical" />
+  
 </p>
 
 ---
+
+   Top languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+
+ WakaTime card
+
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)
 
 
 
