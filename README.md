@@ -1,4 +1,4 @@
-Aqui está o código completo do README, sem as linhas separadoras, pronto para copiar e colar direto no seu GitHub:
+
 
 ```markdown
 # 👋 Hey there, I'm **Amador Ambriz Zonda**
